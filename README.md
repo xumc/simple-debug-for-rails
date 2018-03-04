@@ -1,6 +1,7 @@
 # simple-debug-for-rails
 this is a gem for watching rails log conveniently.
 When I'm developing with rails, I'd like to watch rails log to confirm is my data store to database right no not. But It's hard to find which line is insert/update/delete sql. So I build this gem to watch rails log conveniently. you can find the gem source in vendor/gems/simple_debug
+![snapshot](/snapshot.png)
 
 ## Usage:
 Add this line to your application's Gemfile:

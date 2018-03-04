@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SimpleDebug::VERSION
   spec.authors       = ["徐敏才"]
   spec.email         = ["hmilym@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Hightlight SQL in rails log}
+  spec.description   = %q{Hightlight SQL in rails log}
   spec.homepage      = ""
   spec.license       = "MIT"
 
